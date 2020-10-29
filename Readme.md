@@ -1,7 +1,7 @@
 # Учебный проект «Угадай мелодию» [![Build status][travis-image]][travis-url]
 
 * Студент: [Александр Батолло](https://up.htmlacademy.ru/react/5/user/65755).
-* Наставник: `Неизвестно`.
+* Наставник: [Даниил Царёв](https://up.htmlacademy.ru/react/5/user/945835).
 
 ---
 
